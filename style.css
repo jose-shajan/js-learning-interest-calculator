@@ -1,0 +1,48 @@
+body {background-color:#636B2F;
+    font-family: arial;
+    color: white;
+}
+h1{
+    color:#3D4127;
+    font-family: verdana;
+}
+.maindiv{
+    background-color: #D4DE95;
+    color: #3D4127;
+    width: 400px;
+    height: 285px;
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+
+}
+.amount-input,
+.rate-input,
+.year-input
+{
+    margin-bottom: 10px;
+}
+.compute-button{
+    margin-top: 5px;
+    background-color: #3D4127;
+    color: white;
+    width: 150px;
+    height: 34px;
+    border-radius: 17px;
+    border-style: solid;
+    border-width: 0px;
+    font-size: 13px;
+    font-weight: 600;
+    transition:background-color 0.3s;
+}
+.compute-button:hover{
+    background-color: #565c38;
+}
+
+.footer{
+    margin-top: 40px;
+    text-align: center;
+}
