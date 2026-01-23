@@ -12,12 +12,11 @@ https://jose-shajan.github.io/js-learning-interest-calculator/
 
 
 
+
 \## Technologies Used
 
 \- HTML
-
 \- CSS
-
 \- JavaScript
 
 
@@ -25,9 +24,7 @@ https://jose-shajan.github.io/js-learning-interest-calculator/
 \## What I Learned
 
 \- Basic JavaScript logic
-
 \- Handling user input
-
 \- Simple DOM manipulation
 
 
@@ -35,7 +32,6 @@ https://jose-shajan.github.io/js-learning-interest-calculator/
 \## Future Improvements
 
 \- Improve UI design
-
 \- Add input validation
 
 
