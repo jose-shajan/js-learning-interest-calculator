@@ -6,7 +6,15 @@ This is a simple interest calculator built as part of my frontend learning journ
 
 
 
+\## Live Demo
+
+https://jose-shajan.github.io/js-learning-interest-calculator/
+
+
+
+
 \## Technologies Used
+
 
 \- HTML
 
@@ -18,6 +26,7 @@ This is a simple interest calculator built as part of my frontend learning journ
 
 \## What I Learned
 
+
 \- Basic JavaScript logic
 
 \- Handling user input
@@ -27,6 +36,7 @@ This is a simple interest calculator built as part of my frontend learning journ
 
 
 \## Future Improvements
+
 
 \- Improve UI design
 
