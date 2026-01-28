@@ -9,6 +9,7 @@ This is a simple interest calculator built as part of my frontend learning journ
 \## Live Demo
 
 https://jose-shajan.github.io/js-learning-interest-calculator/
+[Visit Demo](https://jose-shajan.github.io/js-learning-interest-calculator/)
 
 
 
